@@ -18,7 +18,6 @@ Sourced from the [Codebasics.io End-to-End Data Analyst Project](https://codebas
 - `dim_rooms`
 - `fact_aggregated_bookings`
 - `key_measures`
-- and more...
 
 ## 📌 Key Business Questions
 - What is the trend in revenue and bookings?
@@ -26,17 +25,39 @@ Sourced from the [Codebasics.io End-to-End Data Analyst Project](https://codebas
 - How do cancellations affect business?
 - Which market segments drive the most revenue?
 
-## 📈 Dashboard Preview
+---
 
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
+## 📈 Dashboard Overview
 
-## 🧠 Insights
-- Revenue peaked in the summer months due to higher booking volumes.
-- Suite rooms generated the highest average revenue.
-- Cancellation rates were highest among online travel agent bookings.
+The Power BI dashboard is fully interactive, featuring filters by hotel type, room type, market segment, and date.
 
-## 🔗 Live Demo
-You can view the published dashboard on [Power BI Service](https://app.powerbi.com) *(if you've published it publicly)*
+### 🖥️ Dashboard Main View
+![Dashboard](images/dashboard.png)
+
+### 💰 Revenue by Room Type
+![Revenue](images/revenue.png)
+
+### 📊 Key Metrics Summary
+![Key Metrics](images/key metrics.png)
+
+---
+
+## 🧠 What I Learned
+
+- Data transformation using Power Query
+- Star schema data modeling
+- Creating meaningful KPIs using DAX
+- Dashboard design for business users
+- End-to-end BI reporting workflow
+
+---
+
+## 🔗 View the Power BI Report
+
+📊 **[Click here to view/download the SSIMON Power BI Report](https://gtbank-my.sharepoint.com/:u:/p/shirleen_simon/ERhi5ZQUAR1JlcLiMhlu2bkBqXm8aRxVKpRVU959sUYw2w?e=TYEZRc)**
+
+The report showcases insights on hotel performance metrics including occupancy, revenue, and booking patterns.
+
 
 ## 💼 Author
 Shirleen Simon | [Portfolio Website](https://shirleensimon.github.io)
