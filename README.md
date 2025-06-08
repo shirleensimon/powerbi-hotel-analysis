@@ -38,7 +38,7 @@ The Power BI dashboard is fully interactive, featuring filters by hotel type, ro
 ![Revenue](images/revenue.png)
 
 ### 📊 Key Metrics Summary
-![Key Metrics](images/key metrics.png)
+![Key Metrics](images/key-metrics.png)
 
 ---
 
